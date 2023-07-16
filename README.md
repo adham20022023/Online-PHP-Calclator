@@ -11,7 +11,7 @@ This is a simple web-based calculator built using PHP. It performs basic arithme
 5. Enter the second number in the "Second Number" field
 6. Select the desired operation by clicking on one of the buttons: ADD, Subtract, Multiply, Divide, or Clear
 7. The result will be displayed in the "Result" field
-
+![calculator](./photo/image.jpg)
 ## Features
 
 - Performs basic arithmetic operations
